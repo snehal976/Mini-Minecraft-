@@ -1,8 +1,9 @@
 # Mini Minecraft: The Grind 2026 - SURVIVAL
 
 > A web-based voxel survival game built with Three.js and HTML5. Explore a procedurally generated world, build defenses, loot chests, and survive against "The Glitch" entities that hunt you at night.
-
-![LIVE Demo ](https://via.placeholder.com/1200x400?text=Mini+Minecraft+Survival+2026) 
+---
+* **Watch live Demo**
+(https://snehal976.github.io/Mini-Minecraft-/) 
 
 
 ---
